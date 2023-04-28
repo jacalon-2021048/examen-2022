@@ -1,0 +1,33 @@
+/**
+ *
+ * @author Jhonatan Jose Acalón Ajanel <jacalon-2021048@kinal.edu.gt>
+ * @date 26/09/2022
+ * @time 11:37:06
+ * @codigo IN5BM
+ * @jornada Matutina
+ * @grupo 1
+ */
+#panel-navegacion{
+    -fx-background-color:#5F0101;
+}
+
+#panel-entidad{
+    -fx-background-color:#1F4DB6;
+    /*-fx-background-color:#1C2E7A;*/
+    -fx-background-radius:0 0 50 50;
+}
+
+.botones-crud{
+    -fx-background-color:#5F0101;
+    -fx-text-fill:#FFFFFF;
+}
+
+.botones-crud:hover{
+    -fx-background-color:#507F7F;
+    -fx-background-radius:30 30 30 30;
+    -fx-text-fill:#FFFFFF;
+}
+
+#anchor-pane-contenido{
+    -fx-background-image: url("https://wallpaperstock.net/wallpapers/thumbs1/33799wide.jpg");
+}
